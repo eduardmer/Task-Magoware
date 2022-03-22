@@ -1,4 +1,4 @@
-package com.detyre_magoware_android.ui;
+package com.detyre_magoware_android.ui.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;

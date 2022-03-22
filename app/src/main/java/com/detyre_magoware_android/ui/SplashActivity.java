@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.os.Handler;
 
 import com.detyre_magoware_android.R;
+import com.detyre_magoware_android.ui.main.MainActivity;
 
 import java.util.Objects;
 

@@ -5,7 +5,7 @@ import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 
 import com.detyre_magoware_android.data.DataProvider;
-import com.detyre_magoware_android.ui.MainViewModel;
+import com.detyre_magoware_android.ui.main.MainViewModel;
 
 public class ViewModelProviderFactory extends ViewModelProvider.NewInstanceFactory {
 
